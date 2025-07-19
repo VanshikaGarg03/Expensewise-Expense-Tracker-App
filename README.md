@@ -42,6 +42,6 @@ This project is licensed under the MIT License.
 🙋‍♀️ Author
 Vanshika Garg
 
-GitHub: @VanshikaGarg03
+GitHub: [@VanshikaGarg03](https://github.com/VanshikaGarg03)
 
-LinkedIn: vanshika-garg
+LinkedIn: [vanshika-garg](https://www.linkedin.com/in/vanshika-garg-2ba83b25a/)
